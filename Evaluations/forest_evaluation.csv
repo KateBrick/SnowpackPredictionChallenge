@@ -1,0 +1,17 @@
+Metric,Value
+Nash-Sutcliffe Efficiency (NSE),0.9998154625046747
+Root Mean Square Error (RMSE),3.461958103817338
+R² Score,0.9998154625046747
+Relative Bias (%),0.01246347471398498
+Prediction Error,"369090     3.7084
+266627     0.0000
+376545     0.0000
+1516786    0.0000
+397945     2.9972
+            ...  
+1562133    0.0000
+3800       0.0000
+469626     0.0000
+334252     0.0000
+1464198    0.0000
+Name: SWE, Length: 379600, dtype: float64"
