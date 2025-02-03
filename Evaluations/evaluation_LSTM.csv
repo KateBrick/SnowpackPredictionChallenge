@@ -1,0 +1,6 @@
+Metric,Value
+Nash-Sutcliffe Efficiency (NSE),0.9921533922579796
+Root Mean Square Error (RMSE),22.574621018322333
+R² Score,0.9921533922579796
+Relative Bias (%),5.466669274467907
+Prediction Error,[2.6771698  0.25645828 0.2802887  ... 0.28233719 0.31753159 0.2439003 ]
